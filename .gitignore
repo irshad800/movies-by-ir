@@ -11,7 +11,9 @@
 # production
 /build
 
+
 # misc
+.frontend\src\Components\Contants\Contants.js
 .DS_Store
 .env.local
 .env.development.local
